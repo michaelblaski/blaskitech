@@ -2,100 +2,71 @@
     text-decoration: none;
 }
 body{
-    background-image: url(./img/by\ circut\ img.jpg);
-    background: transparent, black, gray;
-    padding: 20px;
+    background: linear-gradient(to right, rgb(9, 9, 61), black 900px);
 }
 .innodiv{
-    padding: 10px;
-    margin: 10px;
-    display: flex;
-    text-align: center;
+    padding: 10px 20px;
     justify-content: space-between;
-}
-.logo{
-    color: white;
-    font-size: 45px;
-    font-weight: 700;
-    font-style: inherit;
+    text-align: center;
+    display: flex;
+
 }
 ul li{
     display: inline-block;
-    font-size: 20px;
-    font-weight: 600;
-    padding: 20px;
-    margin-left: 10px;
-}
-button{
-    background-color: black;
-    border-radius: 15px;
-    color: white;
-    height: 40px;
-    width: 100px;
-}
-.bit{
-    background-color: rgb(0, 60, 255);
-    border: none;
-}
-li a{
-    color: white;
-    border-bottom: rgb(0, 81, 255);
-}
-.in img{
-    border-radius: 48%;
-    height: 300px;
-    width: 300px;
-    float: right;
-    padding-left: 30px;
-}
-.first{
-    color: white;
-    font-size: 80px;
-    font-weight: 700;
+    text-align: center;
 
 }
-.tec{
-    color: rgb(0, 89, 255);
-    font-size: 80px;
-    font-weight: 700;
-}
-.sec{
+li a{
+    list-style: none;
+    font-size: 22px;
     color: white;
-    font-size: 40px;
-    margin-top: -15px;
+    padding: 60px;
 }
-.min{
-    color: rgb(0, 60, 255) ;
-    font-size: 40px;
-    margin-top: -15px;
+.logo{
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
 }
-.firs{
-    color: rgb(0, 89, 255);
-    font-size: 40px;
+h1{
+    font-size: 80px;
 }
 p{
     color: white;
+    font-size: 20px;
 }
-.but{
-    background-color: rgb(0, 0, 255);
+span{
+    color: white;
+}
+.bit{
+    color: white;
+    background-color: #0408f8;
+    width: 90px;
+    border-radius: 20px;
+    height: 40px;
+    font-size: 25px;
+    border: none;
+}
+.blas img{
+    width: 700px;
+    height: 500px;
+    float: right;
+    border-radius: 20px;
+
+}
+.wel{
+    background: linear-gradient(to right, rgb(17, 17, 97), rgb(5, 13, 48));
+    border-radius: 10px;
+    width: 300px;
+    color: #2563EB;
+}
+p .wel{
     padding: 10px;
 }
-
-.dive{
-    align-items: center;
-    justify-content: space-between;
-    padding-left: 300px;
-    padding-top: 20px;
-}
-button{
-    gap: 10px;
-}
-.set{
-    justify-content: space-between;
-    display: flex;
-    height: 200px;
-}
-H4{
-    color: white;
-    font-size: 20px;
+.hero-line{
+    width: 300px;
+    height: 6px;
+    margin-top: 20px;
+    background: linear-gradient(90deg, #00A8FF, #0066FF);
+    border-radius: 30px;
+    box-shadow: 0 0 12px #008CFF;
 }

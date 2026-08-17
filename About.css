@@ -1,0 +1,137 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: white;
+}
+.innodiv{
+    padding: 10px 20px;
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+
+}
+ul li{
+    display: inline-block;
+    text-align: center;
+
+}
+li a{
+    list-style: none;
+    font-size: 22px;
+    color: black;
+    padding: 30px;
+}
+.logo a{
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+}
+
+.blas img{
+    width: 700px;
+    height: 650px;
+    float: right;
+    border-radius: 20px;
+}
+.bit{
+    color: white;
+    background-color: rgb(0, 38, 255);
+    border-radius: 10px;
+    font-size: 15px;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+h2{
+    font-size: 60px;
+    padding: 20px;
+}
+.pp{
+    font-size: 25px;
+    padding: 20px;
+}
+button{
+    color: white;
+    background-color: rgb(0, 47, 255);
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+}
+button i{
+    padding: 10px;
+}
+.secs{
+    padding: 60px 10px 30px 10px;
+}
+.sac{
+    display: flex;
+    padding: 30px;
+    gap: 50px;
+}
+.sacs h3{
+    color: rgb(0, 60, 255);
+    font-size: 20px;
+}
+h5{
+    font-size: 20px;
+    padding: -10px;
+}
+.soc{
+    border: 1px solid rgb(156, 154, 154);
+    border-radius: 10px;
+    box-shadow: 5px 5px solid black;
+    height: 320px;
+    font-size: 20px;
+    width: 300px;
+    padding: 10px;
+}
+.socs i{
+    font-size: 35px;
+    color: rgb(253, 254, 255);
+    background-color: rgb(0, 81, 255);
+    width: 60px;
+    height: 50px;
+    padding-top: 10px;
+    border-radius: 50%;
+}
+.socs h4{
+    font-size: 30px;
+}
+.sic{
+    border: 1px solid rgb(156, 154, 154);
+    border-radius: 10px;
+    box-shadow: 5px 5px solid black;
+    height: 320px;
+    font-size: 20px;
+    width: 300px;
+    padding: 10px;
+}
+.sics i{
+    font-size: 35px;
+    color: rgb(253, 254, 255);
+    background-color: rgb(0, 81, 255);
+    width: 60px;
+    height: 50px;
+    padding-top: 10px;
+    border-radius: 50%;
+}
+.sics h4{
+    font-size: 30px;
+}
+.what{
+    color: rgb(0, 38, 255);
+    font-size: 20px;
+    padding-left: 100px;
+}
+.yos{
+    padding-left: 500px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
