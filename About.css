@@ -22,10 +22,10 @@ li a{
     color: black;
     padding: 30px;
 }
-.logo a{
-    font-size: 50px;
-    font-weight: 600;
-    color: black;
+.logo img{
+    width: 300px;
+    height: 150px;
+    margin-top: -20px;
 }
 
 .blas img{
@@ -93,7 +93,7 @@ h5{
     background-color: rgb(0, 81, 255);
     width: 60px;
     height: 50px;
-    padding-top: 10px;
+    padding-top: 15px;
     border-radius: 50%;
 }
 .socs h4{
@@ -123,15 +123,106 @@ h5{
 .what{
     color: rgb(0, 38, 255);
     font-size: 20px;
-    padding-left: 100px;
+    margin-left: 150px;
 }
 .yos{
-    padding-left: 500px;
+    margin-left: 500px;
     padding-top: 60px;
     padding-bottom: 60px;
 }
 .all{
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 80px;
+}
+.als{
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+.alls{
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+.asl{
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+}
+.assl{
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+}
+.allls{
+    padding-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+}
+.alss{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+.wat{
+    color: rgb(0, 38, 255);
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 150px;
+}
+.yus{
+    margin-left: 500px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.yis{
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-bottom: -70px;
+}
+.nums{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.bot{
+    background-color: blue;
+    display: flex;
+    gap: 150px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.best img{
+    width: 300px;
+    height: 150px;
+}
+.small{
+    display: flex;
+    gap: 100px;
+}
+.cars{
+    padding-top: 40px;
+}
+footer{
+    display: flex;
+    padding-top: 40px;
+    justify-content: space-between;
+    padding: 30px 40px 10px 40px;
+}
+.san i{
+    font-size: 30px;
+    justify-content: space-between;
 }
